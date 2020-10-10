@@ -1,0 +1,8 @@
+<suite name="Test plan">
+    <test name="login feature">
+        <classes>
+            <class name="testcases.LoginTest"/>
+        </classes>
+    </test>
+</suite>
+
